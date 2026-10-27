@@ -6,3 +6,10 @@ desktop.ini
 *.swp
 *~
 *.tmp
+
+# 本地预览临时文件
+_preview.html
+_preview_mysql.html
+_render.py
+_render_mysql.py
+_tmp_*
